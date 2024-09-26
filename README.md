@@ -8,6 +8,13 @@ A basic web portal to find an innovative solution to bridge the gap between the 
 
 🐄	Connected using Django framework.
 
+🐄  Done by:
+
+👧🏻 [Mahima A](https://github.com/Mahima-Anand)
+👧🏻 [Mahashruthi KB](https://github.com/maha-13-kb)
+👧🏻 [Ritika S](https://github.com/Ritika-s-26)
+👧🏻 [Vandana A](https://github.com/Vandana-A)
+
 ![This is an image](https://github.com/Mahima-Anand/E-Milk-service-system/blob/main/Output/Abstract.png)
 ![This is an image](https://github.com/Mahima-Anand/E-Milk-service-system/blob/main/Output/Home_page.png)
 ![This is an image](https://github.com/Mahima-Anand/E-Milk-service-system/blob/main/Output/Login.png)
